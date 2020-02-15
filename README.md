@@ -12,7 +12,7 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 Here we will work with face detection. Initially, the algorithm needs a lot of positive images (images of faces) and negative images (images without faces) to train the classifier. Then we need to extract features from it. For this, haar features shown in below image are used. They are just like our convolutional kernel. Each feature is a single value obtained by subtracting sum of pixels under white rectangle from sum of pixels under black rectangle
 
 ###Haar features
-<img src="https://github.com/akshaybahadur21/FaceDetection/blob/master/features.jpg">
+<img src="https://github.com/noorkhokhar99/FaceDetection/blob/master/features.jpg">
 
 OpenCV comes with a trainer as well as detector.
 
