@@ -21,7 +21,6 @@ For more information, [see](https://docs.opencv.org/master/d7/d8b/tutorial_py_fa
 
 ### Working Example
 
-<img src="https://github.com/akshaybahadur21/FaceDetection/blob/master/trim.gif">
 
 
 ### Execution
