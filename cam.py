@@ -5,6 +5,9 @@ cascPath = "haarcascade_frontalface_default.xml"
 faceCascade = cv2.CascadeClassifier(cascPath)
 
 video_capture = cv2.VideoCapture(0)
+video_capture.set(3, width)
+video_capture.set(4, height)
+
 
 while True:
     # Capture frame-by-frame
