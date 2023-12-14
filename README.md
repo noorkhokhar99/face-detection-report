@@ -13,5 +13,5 @@ This code helps you to understand and detect faces using a webcam.
 To run the code, type `python Face.py`
 
 ```
-python Face.py
+python cam.py
 ```
